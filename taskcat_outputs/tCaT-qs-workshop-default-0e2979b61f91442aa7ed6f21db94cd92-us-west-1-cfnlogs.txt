@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------
+Region: us-west-1
+StackName: tCaT-qs-workshop-default-0e2979b61f91442aa7ed6f21db94cd92
+*****************************************************************************
+ResourceStatusReason:  
+Parameter validation failed: parameter value a.morato for parameter name KeyPairName
+does not exist
+*****************************************************************************
+*****************************************************************************
+Events:  
+TimeStamp                         ResourceStatus      ResourceType                LogicalResourceId                                          ResourceStatusReason
+--------------------------------  ------------------  --------------------------  ---------------------------------------------------------  ---------------------------------------------------------------------------------------------------
+2020-09-21 13:06:28.230000+00:00  CREATE_FAILED       AWS::CloudFormation::Stack  tCaT-qs-workshop-default-0e2979b61f91442aa7ed6f21db94cd92  Parameter validation failed: parameter value a.morato for parameter name KeyPairName does not exist
+2020-09-21 13:06:25.574000+00:00  CREATE_IN_PROGRESS  AWS::CloudFormation::Stack  tCaT-qs-workshop-default-0e2979b61f91442aa7ed6f21db94cd92  User Initiated
+*****************************************************************************
+-----------------------------------------------------------------------------
+Tested on: Monday, 21. September 2020 01:07PM
+-----------------------------------------------------------------------------
+
